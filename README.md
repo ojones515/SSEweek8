@@ -1,6 +1,6 @@
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -22,14 +22,14 @@ Vulnerability #1: SQL Injection (SQLi)
 
 Vulnerability #2: Session Hijacking/Fixation
 
-<a href="https://i.imgur.com/7eWlxFU.gif"><img src="https://i.imgur.com/7eWlxFU.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="https://i.imgur.com/DMk55WN.gif"><img src="https://i.imgur.com/DMk55WN.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 
 ## Green
 
 Vulnerability #1: Cross-Site Scripting (XSS)
 
-<a href="https://i.imgur.com/7eWlxFU.gif"><img src="https://i.imgur.com/7eWlxFU.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="https://i.imgur.com/QgZov2u.gif"><img src="https://i.imgur.com/QgZov2u.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 Vulnerability #2: __________________
 
@@ -39,7 +39,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-<a href="https://i.imgur.com/7eWlxFU.gif"><img src="https://i.imgur.com/7eWlxFU.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="https://i.imgur.com/Z9P0KGa.gif"><img src="https://i.imgur.com/Z9P0KGa.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 Vulnerability #2:  Cross-Site Request Forgery (CSRF)
 

@@ -31,9 +31,9 @@ Vulnerability #1: Cross-Site Scripting (XSS)
 
 <a href="https://i.imgur.com/QgZov2u.gif"><img src="https://i.imgur.com/QgZov2u.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
-Vulnerability #2: __________________
+Vulnerability #2: Username Enumeration
 
-<a href="https://i.imgur.com/7eWlxFU.gif"><img src="https://i.imgur.com/7eWlxFU.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="https://i.imgur.com/kYwtSn1.gif"><img src="https://i.imgur.com/kYwtSn1.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 ## Red
 

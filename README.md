@@ -43,9 +43,9 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
 Vulnerability #2:  Cross-Site Request Forgery (CSRF)
 
-<a href="https://i.imgur.com/7eWlxFU.gif"><img src="https://i.imgur.com/7eWlxFU.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="https://i.imgur.com/CclspEJ.gif"><img src="https://i.imgur.com/CclspEJ.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+I ran into problems running XAMPP on my Mac, so I had to use my Windows VM to complete the CSRF challenge.
